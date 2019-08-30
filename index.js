@@ -2,7 +2,7 @@
 
 var customerName = 'Bob';
 
-
+function upperCaseCustomerName()
 
 
 /*const expect = chai.expect;
