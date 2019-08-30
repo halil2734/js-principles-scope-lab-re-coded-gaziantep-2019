@@ -1,7 +1,7 @@
 // Write your solution in this file!
 
 var customerName = 'bob';
-const changeLeastFavoriteCustomer=''
+
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
 }
@@ -14,6 +14,11 @@ function overwriteBestCustomer() {
   bestCustomer = 'maybe bob';
 }
 
+const leastFavoriteCustomer='some initial value';
+
+function changeLeastFavoriteCustomer() {
+  
+}
 
 /*const expect = chai.expect;
 
