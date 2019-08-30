@@ -6,6 +6,9 @@ function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
 }
 
+setBestCustomer() {
+  
+}
 
 /*const expect = chai.expect;
 
