@@ -11,7 +11,7 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer() {
-  bestCustomer = 'maybe bob'
+  bestCustomer = 'maybe bob';
 }
 
 /*const expect = chai.expect;
