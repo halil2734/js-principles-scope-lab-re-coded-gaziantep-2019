@@ -14,7 +14,6 @@ function overwriteBestCustomer() {
   bestCustomer = 'maybe bob';
 }
 
-const LeastFavoriteCustomer = 
 
 /*const expect = chai.expect;
 
