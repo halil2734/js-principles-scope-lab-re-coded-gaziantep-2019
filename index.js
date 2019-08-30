@@ -7,7 +7,7 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
-  
+  bestCustomer = 'not bob';
 }
 
 /*const expect = chai.expect;
