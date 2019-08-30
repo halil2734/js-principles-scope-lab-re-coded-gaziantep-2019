@@ -10,6 +10,10 @@ function setBestCustomer() {
   bestCustomer = 'not bob';
 }
 
+function overwriteBestCustomer() {
+  
+}
+
 /*const expect = chai.expect;
 
 describe('Fix the Scope', function() {
